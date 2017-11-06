@@ -1,0 +1,68 @@
+.img-resize {
+  width: 100%;
+  left: 0;
+  right: 0;
+  height: 700px;
+}
+.background-image {
+  font-family: cursive;
+  font-size: 18px;
+   background-color: rgb(37, 45, 66); opacity: 0.9;
+   color: white;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.header-float {
+  border-radius: 5px;
+  background-color: rgb(10, 14, 28);opacity: 0.9;
+  position: absolute;
+  top: 35%;
+  left: 25%;
+  padding: 20px;
+}
+h1 {
+  font-size: 80px;
+}
+#rulesSection {
+ background-color: rgb(10, 14, 28);opacity: 0.9;
+ padding: 10px 20px 20px 20px;
+ border-radius: 10px;
+}
+#rules {
+  font-size: 30px;
+  font-family: jokerman;
+}
+.Sideplayer1 {
+  background-color: rgb(10, 14, 28);opacity: 0.9;
+  border-radius: 10px;
+  width: 40%;
+  margin: 0px 160px 20px 10px;
+  padding: 20px;
+
+}
+.Sideplayer2 {
+  background-color: rgb(10, 14, 28);opacity: 0.9;
+  border-radius: 10px;
+  width: 40%;
+  margin: 0px 0px 20px 50px;
+  padding: 20px;
+}
+#playingForm {
+  background-color: rgb(10, 14,28);opacity: 0.9;
+  padding: 20px;
+  border-radius: 10px;
+}
+.btn{
+  background-color: green;
+  padding: 15px;
+}
+#playButton:hover {
+  padding: 16px;
+  color: black;
+  font-weight: 700;
+}
+#btnstyling:hover {
+  padding: 16px;
+  color: black;
+  font-weight: 700;
+}
